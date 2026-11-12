@@ -1,0 +1,6 @@
+{
+  "name": "TikTok",
+  "description": "TikTok short video player with vertical swipe feed, video playback, likes, comments, music disc, and creator profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
